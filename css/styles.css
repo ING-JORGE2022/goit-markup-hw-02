@@ -1,0 +1,103 @@
+/* Enbezado */
+
+/* titulo de encabezado */
+.header-title{
+font-weight: 700;
+font-size: 26px;
+color: #2196F3;
+line-height: 31px;
+
+/* link de navegacion encabezado */
+}
+.link-nav .nav-1{
+    color: #212121;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 16px;
+}
+
+.link-nav .nav-1:hover,
+.link-nav .nav-1:focus {
+color:#2196F3;
+}
+.link-nav .nav-1:active{
+    color: #2196F3;
+}
+.contact{
+    color: #757575;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 16px;
+}
+.contact:hover,
+.contact:focus{
+    color:  #2196F3; 
+}
+.contact:active {
+    color: #2196F3; 
+}
+
+
+/* ///////////////////////////// */
+/* Botones  */
+.buttton-container{
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 26px;
+}
+.buttton-container:hover{
+    background: #2196F3;
+    color:#FFFFFF;
+
+}
+.buttton-container:focus{
+    background: #2196F3;
+    color:#FFFFFF;
+
+}
+   
+/*/////////////////////////// */
+/* fuente */
+body{
+    font-family: 'Roboto', sans-serif;
+}
+/* seccion letter*/
+
+
+.letter-title{
+    color:#212121;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 36px;
+}
+
+.info-2{
+font-weight: 400;
+font-size: 16px;
+line-height: 30px;
+color:#757575;
+}
+/* ////////////////////////// */
+/* footer (pie de pagina) */
+.footer-title{
+font-weight: 700;
+font-size: 26px;
+line-height: 31px;
+color: #2196F3;
+}
+
+.address-1{
+font-weight: 400;
+font-size: 14px;
+line-height: 24px;
+colro:#FFFFFF;
+}
+.info-address{
+font-weight: 400;
+font-size: 14px;
+line-height: 24px;
+color: rgba(255, 255, 255, 0.6);
+}
+footer{
+ background: #2F303A;;
+}
