@@ -6,6 +6,7 @@ font-weight: 700;
 font-size: 26px;
 color: #2196F3;
 line-height: 31px;
+font-family: 'Raleway', sans-serif;
 
 /* link de navegacion encabezado */
 }
@@ -44,6 +45,8 @@ color:#2196F3;
     font-weight: 500;
     font-size: 16px;
     line-height: 26px;
+    font-family: 'Roboto', sans-serif;
+
 }
 .buttton-container:hover{
     background: #2196F3;
@@ -84,13 +87,14 @@ font-weight: 700;
 font-size: 26px;
 line-height: 31px;
 color: #2196F3;
+font-family: 'Raleway', sans-serif;
 }
 
 .address-1{
 font-weight: 400;
 font-size: 14px;
 line-height: 24px;
-colro:#FFFFFF;
+color:#FFFFFF;
 }
 .info-address{
 font-weight: 400;
@@ -100,4 +104,54 @@ color: rgba(255, 255, 255, 0.6);
 }
 footer{
  background: #2F303A;;
+}
+/* /////////////////// */
+/* Pagina principal */
+.section-1{
+    background:  #2F303A;;
+}
+.title-1{
+font-weight: 900;
+font-size: 44px;
+line-height: 60px;
+color: #FFFFFF;
+}
+
+.title-2{
+font-weight: 700;
+font-size: 14px;
+line-height: 16px;
+color: #212121;
+}
+
+.info-text{
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: #757575;
+
+}
+.title-3{
+font-weight: 700;
+font-size: 36px;
+line-height: 42px;
+color: #212121;
+}
+.title-4{
+font-weight: 700;
+font-size: 36px;
+line-height: 42px;
+color: #212121;
+}
+.letter-title{
+font-weight: 500;
+font-size: 16px;
+line-height: 19px;
+color: #212121;
+}
+.letter-info{
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    color: #757575;
 }
